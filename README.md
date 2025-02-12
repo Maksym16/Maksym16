@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Tech Stack:</h2>
+<h2 align="left">🛠 Tech Stack:</h2>
 
 ###
 
@@ -70,12 +70,12 @@
 
 ###
 
-<h2 align="left">Contact Me:</h2>
+<h2 align="left">📬 Let's Connect</h2>
 
 ###
 
 <div align="left">
-  <a href="mfedorenko16@gmail.com" target="_blank">
+  <a href="mailto:mfedorenko16@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/maksym-fedorenko/" target="_blank">
